@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keneeme
-- 👀 I’m interested in Mobile Apps.
-- 🌱 I’m currently learning Swift
+- 👀 I’m interested in Mobile Apps and Web Development.
+- 🌱 I’m currently learning Swift and Frontend Web Development
 - 💞️ I’m looking to collaborate on future projects and open source.
 - 📫 How to reach me keneeme@gmail.com
 
